@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="106da849-9fb7-4b2d-b08f-1cf029a7cf79" name="Changes" comment="" />
+    <list default="true" id="106da849-9fb7-4b2d-b08f-1cf029a7cf79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/GenerateMatrix/GenerateMatrix.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +28,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2nEfRVsS3OMHVLeeVqysNpRrtzH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,6 +51,7 @@
     "Application.sortedSquares.executor": "Run",
     "Application.totalFruit.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "E:/amaymay/lernen/Java/Leetcode/Array/RemoveElements/src",
@@ -158,6 +166,8 @@
       <workItem from="1741335401565" duration="595000" />
       <workItem from="1741527842465" duration="2001000" />
       <workItem from="1741529881879" duration="31000" />
+      <workItem from="1741529928754" duration="718000" />
+      <workItem from="1741682907589" duration="1961000" />
     </task>
     <servers />
   </component>
