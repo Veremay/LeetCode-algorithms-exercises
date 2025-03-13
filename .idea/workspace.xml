@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="106da849-9fb7-4b2d-b08f-1cf029a7cf79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/GenerateMatrix/GenerateMatrix.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/GenerateMatrix/generateMatrix.md" beforeDir="false" afterPath="$PROJECT_DIR$/Array/GenerateMatrix/generateMatrix.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
     "Application.RemoveElement.executor": "Run",
     "Application.backspaceCompare.executor": "Run",
     "Application.bisection.executor": "Run",
+    "Application.generateMatrix.executor": "Run",
     "Application.isPerfectSquare.executor": "Run",
     "Application.minSubArrayLen.executor": "Run",
     "Application.moveZeroes.executor": "Run",
@@ -49,6 +49,7 @@
     "Application.searchInsert.executor": "Run",
     "Application.searchRange.executor": "Run",
     "Application.sortedSquares.executor": "Run",
+    "Application.spiralOrder.executor": "Debug",
     "Application.totalFruit.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -75,16 +76,10 @@
       <recent name="E:\amaymay\lernen\Java\Leetcode\Array\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.totalFruit">
-    <configuration name="backspaceCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backspaceCompare" />
-      <module name="RemoveElements" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.spiralOrder">
+    <configuration name="generateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generateMatrix" />
+      <module name="GenerateMatrix" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,13 +87,6 @@
     <configuration name="minSubArrayLen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="minSubArrayLen" />
       <module name="minSubArrayLen" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="moveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="moveZeroes" />
-      <module name="RemoveElements" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,6 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="spiralOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spiralOrder" />
+      <module name="GenerateMatrix" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="totalFruit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="totalFruit" />
       <module name="minSubArrayLen" />
@@ -125,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.spiralOrder" />
+        <item itemvalue="Application.generateMatrix" />
         <item itemvalue="Application.totalFruit" />
         <item itemvalue="Application.minSubArrayLen" />
         <item itemvalue="Application.sortedSquares" />
-        <item itemvalue="Application.backspaceCompare" />
-        <item itemvalue="Application.moveZeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +162,9 @@
       <workItem from="1741527842465" duration="2001000" />
       <workItem from="1741529881879" duration="31000" />
       <workItem from="1741529928754" duration="718000" />
-      <workItem from="1741682907589" duration="1961000" />
+      <workItem from="1741682907589" duration="2312000" />
+      <workItem from="1741694763395" duration="5674000" />
+      <workItem from="1741847544087" duration="9486000" />
     </task>
     <servers />
   </component>
@@ -191,6 +188,11 @@
           <url>file://$PROJECT_DIR$/Array/RemoveElements/src/removeDuplicates.java</url>
           <line>7</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/GenerateMatrix/src/spiralOrder.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
