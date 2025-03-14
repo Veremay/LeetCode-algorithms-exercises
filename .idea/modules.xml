@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Array/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/GenerateMatrix/GenerateMatrix.iml" filepath="$PROJECT_DIR$/Array/GenerateMatrix/GenerateMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/IntervalSum/IntervalSum.iml" filepath="$PROJECT_DIR$/Array/IntervalSum/IntervalSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/RemoveElements/RemoveElements.iml" filepath="$PROJECT_DIR$/Array/RemoveElements/RemoveElements.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/minSubArrayLen/minSubArrayLen.iml" filepath="$PROJECT_DIR$/Array/minSubArrayLen/minSubArrayLen.iml" />
