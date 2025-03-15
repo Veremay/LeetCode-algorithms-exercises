@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="106da849-9fb7-4b2d-b08f-1cf029a7cf79" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/GenerateMatrix/generateMatrix.md" beforeDir="false" afterPath="$PROJECT_DIR$/Array/GenerateMatrix/generateMatrix.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/GenerateMatrix/src/spiralOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/GenerateMatrix/src/spiralOrder.java" afterDir="false" />
-    </list>
+    <list default="true" id="106da849-9fb7-4b2d-b08f-1cf029a7cf79" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,41 +31,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.RemoveElement (1).executor": "Run",
-    "Application.RemoveElement.executor": "Run",
-    "Application.backspaceCompare.executor": "Run",
-    "Application.bisection.executor": "Run",
-    "Application.generateMatrix.executor": "Run",
-    "Application.isPerfectSquare.executor": "Run",
-    "Application.minSubArrayLen.executor": "Run",
-    "Application.moveZeroes.executor": "Run",
-    "Application.mySqrt.executor": "Run",
-    "Application.removeDuplicates.executor": "Run",
-    "Application.searchInsert.executor": "Run",
-    "Application.searchRange.executor": "Run",
-    "Application.sortedSquares.executor": "Run",
-    "Application.spiralOrder.executor": "Run",
-    "Application.totalFruit.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "E:/amaymay/lernen/Java/Leetcode/Array/RemoveElements/src",
-    "last_opened_file_path": "E:/amaymay/lernen/Java/Leetcode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.RemoveElement (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.backspaceCompare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bisection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.generateMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.isPerfectSquare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.minSubArrayLen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.moveZeroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mySqrt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchInsert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortedSquares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.spiralOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.totalFruit.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;E:/amaymay/lernen/Java/Leetcode/Array/RemoveElements/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/amaymay/lernen/Java/Leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\amaymay\lernen\Java\Leetcode\Array\RemoveElements" />
@@ -169,6 +164,7 @@
       <workItem from="1741847544087" duration="10142000" />
       <workItem from="1741877407463" duration="8000" />
       <workItem from="1741957522305" duration="4143000" />
+      <workItem from="1742022765729" duration="22000" />
     </task>
     <servers />
   </component>
