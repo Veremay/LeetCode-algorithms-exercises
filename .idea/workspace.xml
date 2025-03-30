@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/removeElements/removeElements.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/removeElements/dummyNode.png" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/dummyNode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/removeElements/removeElements.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/removeElements/removeElements.md" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/LinkedList.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/removeElements/removehead1.png" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/removehead1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/removeElements/removehead2.png" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/removehead2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/removeElements/src/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/removeElements/src/removeElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/removeElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MyLinkedList.executor": "Run",
+    "Application.removeElements.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -58,20 +59,32 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\amaymay\lernen\Java\Leetcode\LinkedList" />
+      <recent name="E:\amaymay\lernen\Java\Leetcode\LinkedList\src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MyLinkedList">
+    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyLinkedList" />
+      <module name="LinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="removeElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="removeElements" />
-      <module name="removeElements" />
+      <module name="LinkedList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.removeElements" />
       </list>
     </recent_temporary>
@@ -93,7 +106,9 @@
       <option name="presentableId" value="Default" />
       <updated>1742047797510</updated>
       <workItem from="1742047799590" duration="111000" />
-      <workItem from="1742219219609" duration="2096000" />
+      <workItem from="1742219219609" duration="2318000" />
+      <workItem from="1742958024532" duration="41000" />
+      <workItem from="1743310257058" duration="9629000" />
     </task>
     <servers />
   </component>
