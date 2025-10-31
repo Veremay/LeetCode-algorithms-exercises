@@ -7,6 +7,8 @@
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/LinkedList.md" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/LinkedList.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/src/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/ReverseList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Veremay"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Veremay/LeetCode-algorithms-exercises.git",
+    "accountId": "1d5daeb8-2215-4de7-9b1c-70b9ebbbde51"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -41,9 +55,11 @@
     "Application.removeElements.executor": "Run",
     "Application.removeNthFromEnd.executor": "Run",
     "Application.reverseString.executor": "Run",
+    "Application.reverseWords.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,7 +78,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.reverseString">
+  <component name="RunManager" selected="Application.reverseWords">
     <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyLinkedList" />
       <module name="LinkedList" />
@@ -91,8 +107,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="reverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverseWords" />
+      <module name="String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseWords" />
         <item itemvalue="Application.reverseString" />
         <item itemvalue="Application.removeNthFromEnd" />
         <item itemvalue="Application.MyLinkedList" />
@@ -123,7 +147,8 @@
       <workItem from="1743395024807" duration="627000" />
       <workItem from="1743604897774" duration="2401000" />
       <workItem from="1744093221015" duration="1257000" />
-      <workItem from="1744381820374" duration="313000" />
+      <workItem from="1744381820374" duration="478000" />
+      <workItem from="1761828695312" duration="21303000" />
     </task>
     <servers />
   </component>
