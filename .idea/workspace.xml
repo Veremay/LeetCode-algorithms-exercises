@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoublePointer/DoublePointer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashTable/HashTable.md" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/HashTable.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MyLinkedList.executor": "Run",
+    "Application.fourSum.executor": "Debug",
     "Application.removeElements.executor": "Run",
     "Application.removeNthFromEnd.executor": "Run",
     "Application.reverseString.executor": "Run",
@@ -78,10 +78,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.threeSum">
-    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyLinkedList" />
-      <module name="LinkedList" />
+  <component name="RunManager" selected="Application.fourSum">
+    <configuration name="fourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fourSum" />
+      <module name="HashTable" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fourSum" />
         <item itemvalue="Application.threeSum" />
         <item itemvalue="Application.reverseWords" />
         <item itemvalue="Application.reverseString" />
         <item itemvalue="Application.removeNthFromEnd" />
-        <item itemvalue="Application.MyLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -149,11 +149,22 @@
       <workItem from="1744093221015" duration="1257000" />
       <workItem from="1744381820374" duration="478000" />
       <workItem from="1761828695312" duration="23177000" />
-      <workItem from="1762760588847" duration="6082000" />
+      <workItem from="1762760588847" duration="8131000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/HashTable/src/fourSum.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
