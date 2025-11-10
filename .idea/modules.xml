@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Array/BinarySearch/BinarySearch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DoublePointer/DoublePointer.iml" filepath="$PROJECT_DIR$/DoublePointer/DoublePointer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/GenerateMatrix/GenerateMatrix.iml" filepath="$PROJECT_DIR$/Array/GenerateMatrix/GenerateMatrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/HashTable/HashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/IntervalSum/IntervalSum.iml" filepath="$PROJECT_DIR$/Array/IntervalSum/IntervalSum.iml" />

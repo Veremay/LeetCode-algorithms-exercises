@@ -7,8 +7,7 @@
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/LinkedList.md" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/LinkedList.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/src/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoublePointer/DoublePointer.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Veremay"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Veremay&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Veremay/LeetCode-algorithms-exercises.git",
-    "accountId": "1d5daeb8-2215-4de7-9b1c-70b9ebbbde51"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Veremay/LeetCode-algorithms-exercises.git&quot;,
+    &quot;accountId&quot;: &quot;1d5daeb8-2215-4de7-9b1c-70b9ebbbde51&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -56,6 +55,7 @@
     "Application.removeNthFromEnd.executor": "Run",
     "Application.reverseString.executor": "Run",
     "Application.reverseWords.executor": "Run",
+    "Application.threeSum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -78,16 +78,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.reverseWords">
+  <component name="RunManager" selected="Application.threeSum">
     <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyLinkedList" />
-      <module name="LinkedList" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="removeElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="removeElements" />
       <module name="LinkedList" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,13 +107,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="threeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeSum" />
+      <module name="HashTable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.threeSum" />
         <item itemvalue="Application.reverseWords" />
         <item itemvalue="Application.reverseString" />
         <item itemvalue="Application.removeNthFromEnd" />
         <item itemvalue="Application.MyLinkedList" />
-        <item itemvalue="Application.removeElements" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,8 @@
       <workItem from="1743604897774" duration="2401000" />
       <workItem from="1744093221015" duration="1257000" />
       <workItem from="1744381820374" duration="478000" />
-      <workItem from="1761828695312" duration="21303000" />
+      <workItem from="1761828695312" duration="23177000" />
+      <workItem from="1762760588847" duration="6082000" />
     </task>
     <servers />
   </component>
