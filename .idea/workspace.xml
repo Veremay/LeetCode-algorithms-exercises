@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable/HashTable.md" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/HashTable.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +51,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MyLinkedList.executor": "Run",
+    "Application.evalRPN.executor": "Run",
     "Application.fourSum.executor": "Debug",
+    "Application.isValid.executor": "Run",
+    "Application.removeDuplicates.executor": "Run",
     "Application.removeElements.executor": "Run",
     "Application.removeNthFromEnd.executor": "Run",
     "Application.reverseString.executor": "Run",
     "Application.reverseWords.executor": "Run",
     "Application.threeSum.executor": "Run",
+    "Application.topKFrequent.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -78,7 +83,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.fourSum">
+  <component name="RunManager" selected="Application.topKFrequent">
+    <configuration name="evalRPN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evalRPN" />
+      <module name="StackAndQueue" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="fourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fourSum" />
       <module name="HashTable" />
@@ -86,41 +98,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeNthFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="removeNthFromEnd" />
-      <module name="LinkedList" />
+    <configuration name="isValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isValid" />
+      <module name="StackAndQueue" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseString" />
-      <module name="String" />
+    <configuration name="removeDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="removeDuplicates" />
+      <module name="StackAndQueue" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseWords" />
-      <module name="String" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="threeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threeSum" />
-      <module name="HashTable" />
+    <configuration name="topKFrequent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topKFrequent" />
+      <module name="StackAndQueue" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.topKFrequent" />
+        <item itemvalue="Application.evalRPN" />
+        <item itemvalue="Application.removeDuplicates" />
+        <item itemvalue="Application.isValid" />
         <item itemvalue="Application.fourSum" />
-        <item itemvalue="Application.threeSum" />
-        <item itemvalue="Application.reverseWords" />
-        <item itemvalue="Application.reverseString" />
-        <item itemvalue="Application.removeNthFromEnd" />
       </list>
     </recent_temporary>
   </component>
@@ -150,21 +155,11 @@
       <workItem from="1744381820374" duration="478000" />
       <workItem from="1761828695312" duration="23177000" />
       <workItem from="1762760588847" duration="8131000" />
+      <workItem from="1762935138769" duration="11867000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/HashTable/src/fourSum.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
