@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/src/inorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/src/inorderTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,8 @@
     "Application.evalRPN.executor": "Run",
     "Application.fourSum.executor": "Debug",
     "Application.isValid.executor": "Run",
+    "Application.postorderTraversal.executor": "Debug",
+    "Application.preorderTraversal.executor": "Run",
     "Application.removeDuplicates.executor": "Run",
     "Application.removeElements.executor": "Run",
     "Application.removeNthFromEnd.executor": "Run",
@@ -83,7 +85,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.topKFrequent">
+  <component name="RunManager" selected="Application.inorderTraversal">
     <configuration name="evalRPN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="evalRPN" />
       <module name="StackAndQueue" />
@@ -91,23 +93,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fourSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fourSum" />
-      <module name="HashTable" />
+    <configuration name="inorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inorderTraversal" />
+      <module name="BinaryTree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isValid" />
-      <module name="StackAndQueue" />
+    <configuration name="postorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="postorderTraversal" />
+      <module name="BinaryTree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="removeDuplicates" />
-      <module name="StackAndQueue" />
+    <configuration name="preorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preorderTraversal" />
+      <module name="BinaryTree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.inorderTraversal" />
+        <item itemvalue="Application.postorderTraversal" />
+        <item itemvalue="Application.preorderTraversal" />
         <item itemvalue="Application.topKFrequent" />
         <item itemvalue="Application.evalRPN" />
-        <item itemvalue="Application.removeDuplicates" />
-        <item itemvalue="Application.isValid" />
-        <item itemvalue="Application.fourSum" />
       </list>
     </recent_temporary>
   </component>
@@ -156,10 +158,29 @@
       <workItem from="1761828695312" duration="23177000" />
       <workItem from="1762760588847" duration="8131000" />
       <workItem from="1762935138769" duration="11867000" />
+      <workItem from="1762952634295" duration="1281000" />
+      <workItem from="1763522748590" duration="2492000" />
+      <workItem from="1763531073067" duration="6243000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinaryTree/src/preorderTraversal.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinaryTree/src/inorderTraversal.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
