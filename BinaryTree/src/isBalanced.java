@@ -22,8 +22,6 @@ public class isBalanced {
             return -1;
         }
 
-        boolean isBalanced = Math.abs(leftHeight - rightHeight) < 1;
-
         int result;
         if (Math.abs(leftHeight - rightHeight) > 1) {  // 中
             result = -1;
