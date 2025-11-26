@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BinaryTree/src/isBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/src/isBalanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/BinaryTree.md" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/BinaryTree.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +166,8 @@
       <workItem from="1763711294652" duration="18000" />
       <workItem from="1763786812531" duration="6132000" />
       <workItem from="1763879456453" duration="11150000" />
-      <workItem from="1764073587940" duration="5553000" />
+      <workItem from="1764073587940" duration="6187000" />
+      <workItem from="1764125728547" duration="10480000" />
     </task>
     <servers />
   </component>
