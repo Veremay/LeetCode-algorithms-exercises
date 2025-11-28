@@ -47,35 +47,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MyLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evalRPN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fourSum.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.inorderTraversal.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.isValid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.postorderTraversal.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.preorderTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeNthFromEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseWords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.threeSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.topKFrequent.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MyLinkedList.executor": "Run",
+    "Application.evalRPN.executor": "Run",
+    "Application.fourSum.executor": "Debug",
+    "Application.hasPathSum.executor": "Debug",
+    "Application.hasPathSum02.executor": "Debug",
+    "Application.hasPathSumII.executor": "Debug",
+    "Application.inorderTraversal.executor": "Debug",
+    "Application.isValid.executor": "Run",
+    "Application.postorderTraversal.executor": "Debug",
+    "Application.preorderTraversal.executor": "Run",
+    "Application.removeDuplicates.executor": "Run",
+    "Application.removeElements.executor": "Run",
+    "Application.removeNthFromEnd.executor": "Run",
+    "Application.reverseString.executor": "Run",
+    "Application.reverseWords.executor": "Run",
+    "Application.threeSum.executor": "Run",
+    "Application.topKFrequent.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "通义灵码",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\amaymay\lernen\Java\Leetcode\LinkedList" />
@@ -85,10 +89,24 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.inorderTraversal">
-    <configuration name="evalRPN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="evalRPN" />
-      <module name="StackAndQueue" />
+  <component name="RunManager" selected="Application.hasPathSumII">
+    <configuration name="hasPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hasPathSum" />
+      <module name="BinaryTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hasPathSum02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hasPathSum02" />
+      <module name="BinaryTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hasPathSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hasPathSumII" />
+      <module name="BinaryTree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,27 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="preorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="preorderTraversal" />
-      <module name="BinaryTree" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="topKFrequent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topKFrequent" />
-      <module name="StackAndQueue" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hasPathSumII" />
+        <item itemvalue="Application.hasPathSum02" />
+        <item itemvalue="Application.hasPathSum" />
         <item itemvalue="Application.inorderTraversal" />
         <item itemvalue="Application.postorderTraversal" />
-        <item itemvalue="Application.preorderTraversal" />
-        <item itemvalue="Application.topKFrequent" />
-        <item itemvalue="Application.evalRPN" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +171,9 @@
       <workItem from="1763786812531" duration="6132000" />
       <workItem from="1763879456453" duration="11150000" />
       <workItem from="1764073587940" duration="6187000" />
-      <workItem from="1764125728547" duration="10480000" />
+      <workItem from="1764125728547" duration="10844000" />
+      <workItem from="1764142132403" duration="6000" />
+      <workItem from="1764333720521" duration="5835000" />
     </task>
     <servers />
   </component>
@@ -187,7 +193,26 @@
           <line>11</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinaryTree/src/hasPathSum.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinaryTree/src/hasPathSum02.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinaryTree/src/hasPathSumII.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
