@@ -392,3 +392,6 @@ if (cur->left == NULL && cur->right == NULL) {
 Java中基本数据类型（int）是值传递，在递归函数中修改result不会影响外层变量的值。
 
 这一块Java基础没学好！要再补一下。
+
+# 501. 二叉搜索树中的众数 (findMode)
+
