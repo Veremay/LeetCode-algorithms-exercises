@@ -7,6 +7,7 @@
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BinaryTree/BinaryTree.md" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/BinaryTree.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryTree/src/searchBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryTree/src/searchBST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +178,8 @@
       <workItem from="1764333720521" duration="5963000" />
       <workItem from="1764400701591" duration="19883000" />
       <workItem from="1764680788058" duration="3848000" />
-      <workItem from="1764688454155" duration="1021000" />
+      <workItem from="1764688454155" duration="4384000" />
+      <workItem from="1764905268598" duration="12356000" />
     </task>
     <servers />
   </component>

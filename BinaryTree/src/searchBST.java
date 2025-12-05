@@ -15,7 +15,7 @@ public class searchBST {
 
     public static TreeNode searchBST2(TreeNode root, int val) {
         // 利用二叉搜索树的特性
-
+        // 大多是二叉搜索树的题目，其实都离不开中序遍历，因为这样就是有序的。
         if (root == null) return null;
         if (root.val == val) {
             return root;
