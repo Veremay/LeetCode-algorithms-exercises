@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Array/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/GenerateMatrix/GenerateMatrix.iml" filepath="$PROJECT_DIR$/Array/GenerateMatrix/GenerateMatrix.iml" />
