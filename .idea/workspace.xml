@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackTracking/BackTracking.md" beforeDir="false" afterPath="$PROJECT_DIR$/BackTracking/BackTracking.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +181,8 @@
       <workItem from="1764905268598" duration="14249000" />
       <workItem from="1766646376326" duration="4105000" />
       <workItem from="1767532615208" duration="10418000" />
-      <workItem from="1768031736201" duration="7619000" />
+      <workItem from="1768031736201" duration="7753000" />
+      <workItem from="1768106108254" duration="10856000" />
     </task>
     <servers />
   </component>
