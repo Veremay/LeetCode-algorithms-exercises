@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/Array/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramm/DynamicProgramm.iml" filepath="$PROJECT_DIR$/DynamicProgramm/DynamicProgramm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/GenerateMatrix/GenerateMatrix.iml" filepath="$PROJECT_DIR$/Array/GenerateMatrix/GenerateMatrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/HashTable/HashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/IntervalSum/IntervalSum.iml" filepath="$PROJECT_DIR$/Array/IntervalSum/IntervalSum.iml" />
