@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackTracking/src/coinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramm/src/coinChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackTracking/src/numSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramm/src/numSquares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DynamicProgramm/DynamicProgramming.md" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramm/DynamicProgramming.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,40 +49,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MyLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.evalRPN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fourSum.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.hasPathSum.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.hasPathSum02.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.hasPathSumII.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.inorderTraversal.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.isValid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.postorderTraversal.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.preorderTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeElements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeNthFromEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseWords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.searchBST.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.threeSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.topKFrequent.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;通义灵码&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MyLinkedList.executor": "Run",
+    "Application.evalRPN.executor": "Run",
+    "Application.fourSum.executor": "Debug",
+    "Application.hasPathSum.executor": "Debug",
+    "Application.hasPathSum02.executor": "Debug",
+    "Application.hasPathSumII.executor": "Debug",
+    "Application.inorderTraversal.executor": "Debug",
+    "Application.isValid.executor": "Run",
+    "Application.postorderTraversal.executor": "Debug",
+    "Application.preorderTraversal.executor": "Run",
+    "Application.removeDuplicates.executor": "Run",
+    "Application.removeElements.executor": "Run",
+    "Application.removeNthFromEnd.executor": "Run",
+    "Application.reverseString.executor": "Run",
+    "Application.reverseWords.executor": "Run",
+    "Application.searchBST.executor": "Debug",
+    "Application.threeSum.executor": "Run",
+    "Application.topKFrequent.executor": "Run",
+    "Application.wordBreak.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "通义灵码",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\amaymay\lernen\Java\Leetcode\LinkedList" />
@@ -90,7 +93,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.searchBST">
+  <component name="RunManager" selected="Application.wordBreak">
     <configuration name="hasPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hasPathSum" />
       <module name="BinaryTree" />
@@ -112,13 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inorderTraversal" />
-      <module name="BinaryTree" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="searchBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="searchBST" />
       <module name="BinaryTree" />
@@ -126,13 +122,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="wordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wordBreak" />
+      <module name="DynamicProgramm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.wordBreak" />
         <item itemvalue="Application.searchBST" />
         <item itemvalue="Application.hasPathSumII" />
         <item itemvalue="Application.hasPathSum02" />
         <item itemvalue="Application.hasPathSum" />
-        <item itemvalue="Application.inorderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +194,8 @@
       <workItem from="1768790168162" duration="10739000" />
       <workItem from="1769062884075" duration="10701000" />
       <workItem from="1769174269496" duration="3851000" />
-      <workItem from="1769237332976" duration="2244000" />
+      <workItem from="1769237332976" duration="2931000" />
+      <workItem from="1769319712260" duration="11411000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,6 @@
 public class numSquares {
     public int numSquares(int n) {
-        int[] dp = new int[n+1];
+        int[] dp = new int[n + 1];
 
         for (int i = 0; i < dp.length; i++) {
             dp[i] = Integer.MAX_VALUE;
