@@ -7,6 +7,7 @@
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DynamicProgramm/DynamicProgramming.md" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramm/DynamicProgramming.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramm/src/maxProfitFreeze.java" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramm/src/maxProfitFreeze.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,6 +197,8 @@
       <workItem from="1769319712260" duration="11619000" />
       <workItem from="1769348216111" duration="3000" />
       <workItem from="1769434083592" duration="1979000" />
+      <workItem from="1769442535848" duration="151000" />
+      <workItem from="1769507945155" duration="4010000" />
     </task>
     <servers />
   </component>
