@@ -765,3 +765,48 @@ dp: [0, 1, 2, 3, 4, 5]
 
 dp[i][j] will be the longest common prefix of A[i:] and B[j:]
 
+## 1143.最长公共子序列 (longestCommonSubsequence)
+
+dp[i][j] 表示 text1[i-1] text2[j-1]
+
+坑：只能从左上角转移，才能保持顺序性。
+
+## 1035.不相交的线 (maxUncrossedLines)
+
+直线不能相交，这就是说明在字符串nums1中 找到一个与字符串nums2相同的子序列，且这个子序列不能改变相对顺序，只要相对顺序不改变，连接相同数字的直线就不会相交。
+
+## 53. 最大子数组和 (maxSubArray)
+
+## 392.判断子序列 (isSubsequence)
+
+
+## 115. 不同的子序列 (numDistinct)
+
+hard
+
+## 583. 两个字符串的删除操作 (minDistance)
+
+只要求出两个字符串的最长公共子序列长度即可，那么除了最长公共子序列之外的字符都是必须删除的，最后用两个字符串的总长度减去两个最长公共子序列的长度就是删除的最少步数。
+
+## 72. 编辑距离 (minDistanceII)
+
+## 647. 回文子串 (countSubstrings)
+
+如果这道题定义dp[i] 为 下标i结尾的字符串有 dp[i]个回文串的话，会发现很难找到递归关系。
+
+所以我们要寻找一个递归关系。
+
+![img.png](countSubstrings.png)
+
+所以dp[i][j] 表示 s[i:j] 是回文子串。
+
+## 516.最长回文子序列 (longestPalindromeSubseq)
+
+分s[i] == s[j] 和 s[i] != s[j] 两种情况
+
+如果s[i]与s[j]不相同，说明s[i]和s[j]的同时加入 并不能增加[i,j]区间回文子序列的长度，那么分别加入s[i]、s[j]看看哪一个可以组成最长的回文子序列。
+
+![img.png](最长回文序列1.png)
+
+![img.png](最长回文序列2.png)
+
