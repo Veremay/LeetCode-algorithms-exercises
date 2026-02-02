@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicProgramm/DynamicProgramming.md" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramm/DynamicProgramming.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicProgramm/src/findLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramm/src/findLength.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,6 +199,8 @@
       <workItem from="1769442535848" duration="151000" />
       <workItem from="1769507945155" duration="14345000" />
       <workItem from="1769849752340" duration="18531000" />
+      <workItem from="1769955068385" duration="87000" />
+      <workItem from="1770000715403" duration="9841000" />
     </task>
     <servers />
   </component>
