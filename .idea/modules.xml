@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/HashTable/HashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/IntervalSum/IntervalSum.iml" filepath="$PROJECT_DIR$/Array/IntervalSum/IntervalSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kama/Kama.iml" filepath="$PROJECT_DIR$/Kama/Kama.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/RemoveElements/RemoveElements.iml" filepath="$PROJECT_DIR$/Array/RemoveElements/RemoveElements.iml" />
