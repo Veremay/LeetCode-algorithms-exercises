@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kama/src/constructBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kama/src/constructBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/src/subarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/subarraySum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
     "Application.hasPathSumII.executor": "Debug",
     "Application.inorderTraversal.executor": "Debug",
     "Application.isValid.executor": "Run",
+    "Application.maxArea.executor": "Run",
     "Application.postorderTraversal.executor": "Debug",
     "Application.preorderTraversal.executor": "Run",
     "Application.removeDuplicates.executor": "Run",
@@ -70,10 +72,14 @@
     "Application.topKFrequent.executor": "Run",
     "Application.wordBreak.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/amaymay/lernen/Java/Leetcode",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,7 +98,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.deleteDuplicate">
+  <component name="RunManager" selected="Application.maxArea">
     <configuration name="deleteDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="deleteDuplicate" />
       <module name="Kama" />
@@ -100,16 +106,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hasPathSum02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hasPathSum02" />
+    <configuration name="hasPathSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hasPathSumII" />
       <module name="BinaryTree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hasPathSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hasPathSumII" />
-      <module name="BinaryTree" />
+    <configuration name="maxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maxArea" />
+      <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,19 +136,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.maxArea" />
         <item itemvalue="Application.deleteDuplicate" />
         <item itemvalue="Application.wordBreak" />
         <item itemvalue="Application.searchBST" />
         <item itemvalue="Application.hasPathSumII" />
-        <item itemvalue="Application.hasPathSum02" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -202,7 +207,9 @@
       <workItem from="1769849752340" duration="18531000" />
       <workItem from="1769955068385" duration="87000" />
       <workItem from="1770000715403" duration="9942000" />
-      <workItem from="1770100560350" duration="10087000" />
+      <workItem from="1770100560350" duration="10294000" />
+      <workItem from="1770361524462" duration="9132000" />
+      <workItem from="1770617213402" duration="1306000" />
     </task>
     <servers />
   </component>
