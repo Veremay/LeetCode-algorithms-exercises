@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kama/src/constructBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kama/src/constructBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramm/src/maxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramm/src/maxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/hot100.md" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/hot100.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hot100/src/subarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/subarraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hot100/maxArea$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/maxArea$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hot100/subarraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/subarraySum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +56,16 @@
     "Application.MyLinkedList.executor": "Run",
     "Application.deleteDuplicate.executor": "Run",
     "Application.evalRPN.executor": "Run",
+    "Application.findAnagrams.executor": "Run",
     "Application.fourSum.executor": "Debug",
     "Application.hasPathSum.executor": "Debug",
     "Application.hasPathSum02.executor": "Debug",
     "Application.hasPathSumII.executor": "Debug",
     "Application.inorderTraversal.executor": "Debug",
     "Application.isValid.executor": "Run",
+    "Application.lengthOfLongestSubstring.executor": "Debug",
     "Application.maxArea.executor": "Run",
+    "Application.maxSlidingWindow.executor": "Debug",
     "Application.postorderTraversal.executor": "Debug",
     "Application.preorderTraversal.executor": "Run",
     "Application.removeDuplicates.executor": "Run",
@@ -68,6 +74,7 @@
     "Application.reverseString.executor": "Run",
     "Application.reverseWords.executor": "Run",
     "Application.searchBST.executor": "Debug",
+    "Application.subarraySum.executor": "Debug",
     "Application.threeSum.executor": "Run",
     "Application.topKFrequent.executor": "Run",
     "Application.wordBreak.executor": "Run",
@@ -98,49 +105,49 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.maxArea">
-    <configuration name="deleteDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deleteDuplicate" />
-      <module name="Kama" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="hasPathSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hasPathSumII" />
-      <module name="BinaryTree" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="maxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maxArea" />
+  <component name="RunManager" selected="Application.maxSlidingWindow">
+    <configuration name="findAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findAnagrams" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="searchBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchBST" />
-      <module name="BinaryTree" />
+    <configuration name="lengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lengthOfLongestSubstring" />
+      <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wordBreak" />
-      <module name="DynamicProgramm" />
+    <configuration name="maxSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maxSlidingWindow" />
+      <module name="hot100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="subarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="subarraySum" />
+      <module name="hot100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeSum" />
+      <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.maxArea" />
-        <item itemvalue="Application.deleteDuplicate" />
-        <item itemvalue="Application.wordBreak" />
-        <item itemvalue="Application.searchBST" />
-        <item itemvalue="Application.hasPathSumII" />
+        <item itemvalue="Application.maxSlidingWindow" />
+        <item itemvalue="Application.findAnagrams" />
+        <item itemvalue="Application.lengthOfLongestSubstring" />
+        <item itemvalue="Application.subarraySum" />
+        <item itemvalue="Application.threeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +155,7 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
@@ -209,7 +217,8 @@
       <workItem from="1770000715403" duration="9942000" />
       <workItem from="1770100560350" duration="10294000" />
       <workItem from="1770361524462" duration="9132000" />
-      <workItem from="1770617213402" duration="1306000" />
+      <workItem from="1770617213402" duration="7599000" />
+      <workItem from="1770970687813" duration="19779000" />
     </task>
     <servers />
   </component>
@@ -243,6 +252,26 @@
           <url>file://$PROJECT_DIR$/BinaryTree/src/hasPathSumII.java</url>
           <line>47</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/subarraySum.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/lengthOfLongestSubstring.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/findAnagrams.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/maxSlidingWindow.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
