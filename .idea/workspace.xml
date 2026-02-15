@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicProgramm/src/maxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramm/src/maxSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/hot100.md" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/hot100.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/subarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/subarraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hot100/maxArea$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/maxArea$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hot100/subarraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/subarraySum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +53,7 @@
     "Application.evalRPN.executor": "Run",
     "Application.findAnagrams.executor": "Run",
     "Application.fourSum.executor": "Debug",
+    "Application.getIntersectionNode.executor": "Run",
     "Application.hasPathSum.executor": "Debug",
     "Application.hasPathSum02.executor": "Debug",
     "Application.hasPathSumII.executor": "Debug",
@@ -71,6 +67,7 @@
     "Application.removeDuplicates.executor": "Run",
     "Application.removeElements.executor": "Run",
     "Application.removeNthFromEnd.executor": "Run",
+    "Application.reverseList.executor": "Run",
     "Application.reverseString.executor": "Run",
     "Application.reverseWords.executor": "Run",
     "Application.searchBST.executor": "Debug",
@@ -105,9 +102,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.maxSlidingWindow">
+  <component name="RunManager" selected="Application.reverseList">
     <configuration name="findAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="findAnagrams" />
+      <module name="hot100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getIntersectionNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getIntersectionNode" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,15 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="subarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="subarraySum" />
-      <module name="hot100" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="threeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threeSum" />
+    <configuration name="reverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverseList" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseList" />
+        <item itemvalue="Application.getIntersectionNode" />
         <item itemvalue="Application.maxSlidingWindow" />
         <item itemvalue="Application.findAnagrams" />
         <item itemvalue="Application.lengthOfLongestSubstring" />
-        <item itemvalue="Application.subarraySum" />
-        <item itemvalue="Application.threeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +215,8 @@
       <workItem from="1770100560350" duration="10294000" />
       <workItem from="1770361524462" duration="9132000" />
       <workItem from="1770617213402" duration="7599000" />
-      <workItem from="1770970687813" duration="19779000" />
+      <workItem from="1770970687813" duration="19811000" />
+      <workItem from="1771142543566" duration="5457000" />
     </task>
     <servers />
   </component>
