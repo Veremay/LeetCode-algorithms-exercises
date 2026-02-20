@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/hot100.md" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/hot100.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/src/removeNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/removeNthFromEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +59,11 @@
     "Application.hasPathSum.executor": "Debug",
     "Application.hasPathSum02.executor": "Debug",
     "Application.hasPathSumII.executor": "Debug",
-    "Application.inorderTraversal.executor": "Debug",
+    "Application.inorderTraversal.executor": "Run",
     "Application.isValid.executor": "Run",
     "Application.lengthOfLongestSubstring.executor": "Debug",
     "Application.maxArea.executor": "Run",
+    "Application.maxDepth.executor": "Run",
     "Application.maxSlidingWindow.executor": "Debug",
     "Application.postorderTraversal.executor": "Debug",
     "Application.preorderTraversal.executor": "Run",
@@ -102,14 +105,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.reverseList">
-    <configuration name="findAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findAnagrams" />
-      <module name="hot100" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.maxDepth">
     <configuration name="getIntersectionNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="getIntersectionNode" />
       <module name="hot100" />
@@ -117,8 +113,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lengthOfLongestSubstring" />
+    <configuration name="inorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inorderTraversal" />
+      <module name="hot100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maxDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maxDepth" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.maxDepth" />
+        <item itemvalue="Application.inorderTraversal" />
         <item itemvalue="Application.reverseList" />
         <item itemvalue="Application.getIntersectionNode" />
         <item itemvalue="Application.maxSlidingWindow" />
-        <item itemvalue="Application.findAnagrams" />
-        <item itemvalue="Application.lengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +219,8 @@
       <workItem from="1770361524462" duration="9132000" />
       <workItem from="1770617213402" duration="7599000" />
       <workItem from="1770970687813" duration="19811000" />
-      <workItem from="1771142543566" duration="12314000" />
+      <workItem from="1771142543566" duration="19324000" />
+      <workItem from="1771558896964" duration="14706000" />
     </task>
     <servers />
   </component>
@@ -270,6 +274,11 @@
           <url>file://$PROJECT_DIR$/hot100/src/maxSlidingWindow.java</url>
           <line>7</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/maxDepth.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
