@@ -7,7 +7,6 @@
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hot100/hot100.md" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/hot100.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/removeNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/removeNthFromEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +219,7 @@
       <workItem from="1770617213402" duration="7599000" />
       <workItem from="1770970687813" duration="19811000" />
       <workItem from="1771142543566" duration="19324000" />
-      <workItem from="1771558896964" duration="14706000" />
+      <workItem from="1771558896964" duration="29047000" />
     </task>
     <servers />
   </component>
