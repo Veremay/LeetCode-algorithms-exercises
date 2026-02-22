@@ -20,7 +20,7 @@ public class partition {
         for (int i = startIndex; i < s.length(); i++) {
             // 定义了起始位置startIndex，那么 [startIndex, i] 就是要截取的子串。
             if(isPalindrome(s, startIndex, i)){
-                // 获取[startIndex,i]在s中的子串
+                // 获取[startIndex,i)在s中的子串
                 String sub = s.substring(startIndex, i + 1);
                 path.add(sub);
             }else{

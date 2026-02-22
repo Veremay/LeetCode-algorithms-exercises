@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/hot100.md" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/hot100.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackTracking/src/partition.java" beforeDir="false" afterPath="$PROJECT_DIR$/BackTracking/src/partition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/src/kthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/kthSmallest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
     "Application.maxArea.executor": "Run",
     "Application.maxDepth.executor": "Run",
     "Application.maxSlidingWindow.executor": "Debug",
+    "Application.partition.executor": "Run",
     "Application.postorderTraversal.executor": "Debug",
     "Application.preorderTraversal.executor": "Run",
     "Application.removeDuplicates.executor": "Run",
@@ -104,7 +106,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.maxDepth">
+  <component name="RunManager" selected="Application.partition">
     <configuration name="getIntersectionNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="getIntersectionNode" />
       <module name="hot100" />
@@ -126,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maxSlidingWindow" />
+    <configuration name="partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="partition" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.partition" />
         <item itemvalue="Application.maxDepth" />
         <item itemvalue="Application.inorderTraversal" />
         <item itemvalue="Application.reverseList" />
         <item itemvalue="Application.getIntersectionNode" />
-        <item itemvalue="Application.maxSlidingWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +221,7 @@
       <workItem from="1770617213402" duration="7599000" />
       <workItem from="1770970687813" duration="19811000" />
       <workItem from="1771142543566" duration="19324000" />
-      <workItem from="1771558896964" duration="29047000" />
+      <workItem from="1771558896964" duration="47421000" />
     </task>
     <servers />
   </component>
