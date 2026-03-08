@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicProgramm/src/canPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramm/src/canPartition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hot100/partition$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/partition$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/src/maxProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/maxProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hot100/generate$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/generate$Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,8 @@
     "Application.inorderTraversal.executor": "Run",
     "Application.isValid.executor": "Run",
     "Application.lengthOfLongestSubstring.executor": "Debug",
+    "Application.longestCommonSubsequence.executor": "Run",
+    "Application.longestPalindrome.executor": "Run",
     "Application.maxArea.executor": "Run",
     "Application.maxDepth.executor": "Run",
     "Application.maxSlidingWindow.executor": "Debug",
@@ -94,7 +96,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "通义灵码",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -107,7 +109,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.generate">
+  <component name="RunManager" selected="Application.longestCommonSubsequence">
     <configuration name="generate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generate" />
       <module name="hot100" />
@@ -115,8 +117,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inorderTraversal" />
+    <configuration name="longestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longestCommonSubsequence" />
+      <module name="hot100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longestPalindrome" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,20 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseList" />
-      <module name="hot100" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.longestCommonSubsequence" />
+        <item itemvalue="Application.longestPalindrome" />
         <item itemvalue="Application.generate" />
         <item itemvalue="Application.partition" />
         <item itemvalue="Application.maxDepth" />
-        <item itemvalue="Application.inorderTraversal" />
-        <item itemvalue="Application.reverseList" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +224,7 @@
       <workItem from="1770617213402" duration="7599000" />
       <workItem from="1770970687813" duration="19811000" />
       <workItem from="1771142543566" duration="19324000" />
-      <workItem from="1771558896964" duration="79449000" />
+      <workItem from="1771558896964" duration="97299000" />
     </task>
     <servers />
   </component>

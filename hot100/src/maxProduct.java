@@ -20,10 +20,8 @@ public class maxProduct {
             int result = dpMax[0];
 
             for (int i = 1; i < nums.length; i++) {
-                for (int j = 0; j <= i; j++) {
-                    dpMax[i] = Math.max(nums[i], Math.max(dpMax[i-1] * nums[i], dpMin[i-1] * nums[i]));
-                    dpMin[i] = Math.min(nums[i], Math.min(dpMax[i-1] * nums[i], dpMin[i-1] * nums[i]));
-                }
+                dpMax[i] = Math.max(nums[i], Math.max(dpMax[i-1] * nums[i], dpMin[i-1] * nums[i]));
+                dpMin[i] = Math.min(nums[i], Math.min(dpMax[i-1] * nums[i], dpMin[i-1] * nums[i]));
                 result = Math.max(result, dpMax[i]);
             }
 
