@@ -21,12 +21,10 @@ public class canPartition {
 
             // 0-1背包问题，先遍历物品，再反向遍历背包
 
-            for (int i = 1; i < nums.length; i++) {
+            for (int i = 0; i < nums.length; i++) {
                 for (int j = target; j >= nums[i] ; j--) {
-                    if(dp[j] == 1 || dp[j - nums[i]] == 1) {
+                    if (dp[j - nums[i]] == 1) {
                         dp[j] = 1;
-                    }else{
-                        dp[j] = 0;
                     }
                 }
             }

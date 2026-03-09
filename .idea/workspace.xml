@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/maxProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/maxProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hot100/generate$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/generate$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hot100/src/canPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/canPartition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hot100/canPartition$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/canPartition$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hot100/longestCommonSubsequence$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/longestCommonSubsequence$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hot100/maxProduct$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/maxProduct$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hot100/minDistance$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/minDistance$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hot100/minDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/minDistance.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +81,10 @@
     "Application.reverseList.executor": "Run",
     "Application.reverseString.executor": "Run",
     "Application.reverseWords.executor": "Run",
+    "Application.search.executor": "Run",
     "Application.searchBST.executor": "Debug",
+    "Application.searchInsert.executor": "Run",
+    "Application.searchRange.executor": "Run",
     "Application.subarraySum.executor": "Debug",
     "Application.threeSum.executor": "Run",
     "Application.topKFrequent.executor": "Run",
@@ -109,14 +116,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.longestCommonSubsequence">
-    <configuration name="generate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generate" />
-      <module name="hot100" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.search">
     <configuration name="longestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="longestCommonSubsequence" />
       <module name="hot100" />
@@ -131,15 +131,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maxDepth" />
+    <configuration name="search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="partition" />
+    <configuration name="searchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchInsert" />
+      <module name="hot100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="searchRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchRange" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.search" />
+        <item itemvalue="Application.searchRange" />
+        <item itemvalue="Application.searchInsert" />
         <item itemvalue="Application.longestCommonSubsequence" />
         <item itemvalue="Application.longestPalindrome" />
-        <item itemvalue="Application.generate" />
-        <item itemvalue="Application.partition" />
-        <item itemvalue="Application.maxDepth" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +231,7 @@
       <workItem from="1770617213402" duration="7599000" />
       <workItem from="1770970687813" duration="19811000" />
       <workItem from="1771142543566" duration="19324000" />
-      <workItem from="1771558896964" duration="97299000" />
+      <workItem from="1771558896964" duration="111318000" />
     </task>
     <servers />
   </component>
@@ -283,6 +290,11 @@
           <url>file://$PROJECT_DIR$/hot100/src/maxDepth.java</url>
           <line>32</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/searchRange.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
