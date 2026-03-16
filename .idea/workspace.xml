@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hot100/src/canPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/hot100/src/canPartition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hot100/canPartition$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/canPartition$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hot100/longestCommonSubsequence$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/longestCommonSubsequence$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hot100/maxProduct$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/maxProduct$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hot100/minDistance$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/minDistance$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hot100/minDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hot100/minDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashTable/HashTable.md" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/HashTable.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +50,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MyLinkedList.executor": "Run",
+    "Application.dailyTemperatures.executor": "Run",
+    "Application.decodeString.executor": "Run",
     "Application.deleteDuplicate.executor": "Run",
     "Application.evalRPN.executor": "Run",
     "Application.findAnagrams.executor": "Run",
@@ -68,10 +65,12 @@
     "Application.isValid.executor": "Run",
     "Application.lengthOfLongestSubstring.executor": "Debug",
     "Application.longestCommonSubsequence.executor": "Run",
+    "Application.longestConsecutive_hash.executor": "Run",
     "Application.longestPalindrome.executor": "Run",
     "Application.maxArea.executor": "Run",
     "Application.maxDepth.executor": "Run",
     "Application.maxSlidingWindow.executor": "Debug",
+    "Application.nextGreaterElement.executor": "Run",
     "Application.partition.executor": "Run",
     "Application.postorderTraversal.executor": "Debug",
     "Application.preorderTraversal.executor": "Run",
@@ -116,17 +115,31 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.search">
-    <configuration name="longestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longestCommonSubsequence" />
+  <component name="RunManager" selected="Application.nextGreaterElement">
+    <configuration name="dailyTemperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dailyTemperatures" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longestPalindrome" />
+    <configuration name="decodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decodeString" />
       <module name="hot100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longestConsecutive_hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longestConsecutive_hash" />
+      <module name="hot100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nextGreaterElement" />
+      <module name="StackAndQueue" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,27 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="searchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchInsert" />
-      <module name="hot100" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="searchRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchRange" />
-      <module name="hot100" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.nextGreaterElement" />
+        <item itemvalue="Application.dailyTemperatures" />
+        <item itemvalue="Application.decodeString" />
+        <item itemvalue="Application.longestConsecutive_hash" />
         <item itemvalue="Application.search" />
-        <item itemvalue="Application.searchRange" />
-        <item itemvalue="Application.searchInsert" />
-        <item itemvalue="Application.longestCommonSubsequence" />
-        <item itemvalue="Application.longestPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -231,12 +230,25 @@
       <workItem from="1770617213402" duration="7599000" />
       <workItem from="1770970687813" duration="19811000" />
       <workItem from="1771142543566" duration="19324000" />
-      <workItem from="1771558896964" duration="111318000" />
+      <workItem from="1771558896964" duration="113555000" />
+      <workItem from="1773226039602" duration="1249000" />
+      <workItem from="1773640924841" duration="19588000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
