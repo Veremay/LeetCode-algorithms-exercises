@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable/HashTable.md" beforeDir="false" afterPath="$PROJECT_DIR$/HashTable/HashTable.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +50,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MyLinkedList.executor": "Run",
+    "Application.NumArray.executor": "Run",
     "Application.dailyTemperatures.executor": "Run",
     "Application.decodeString.executor": "Run",
     "Application.deleteDuplicate.executor": "Run",
     "Application.evalRPN.executor": "Run",
     "Application.findAnagrams.executor": "Run",
+    "Application.findMaxLength.executor": "Debug",
     "Application.fourSum.executor": "Debug",
     "Application.generate.executor": "Run",
     "Application.getIntersectionNode.executor": "Run",
@@ -63,6 +65,7 @@
     "Application.hasPathSumII.executor": "Debug",
     "Application.inorderTraversal.executor": "Run",
     "Application.isValid.executor": "Run",
+    "Application.jump.executor": "Run",
     "Application.lengthOfLongestSubstring.executor": "Debug",
     "Application.longestCommonSubsequence.executor": "Run",
     "Application.longestConsecutive_hash.executor": "Run",
@@ -71,7 +74,10 @@
     "Application.maxDepth.executor": "Run",
     "Application.maxSlidingWindow.executor": "Debug",
     "Application.nextGreaterElement.executor": "Run",
+    "Application.numIslands.executor": "Run",
+    "Application.orangeRotting.executor": "Run",
     "Application.partition.executor": "Run",
+    "Application.partitionLabels.executor": "Run",
     "Application.postorderTraversal.executor": "Debug",
     "Application.preorderTraversal.executor": "Run",
     "Application.removeDuplicates.executor": "Run",
@@ -102,6 +108,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/amaymay/lernen/Java/Leetcode/prefixSum/src/Main.java",
     "settings.editor.selected.configurable": "configurable.group.appearance",
     "vue.rearranger.settings.migration": "true"
   }
@@ -115,37 +122,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.nextGreaterElement">
-    <configuration name="dailyTemperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dailyTemperatures" />
+  <component name="RunManager" selected="Application.findMaxLength">
+    <configuration name="NumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumArray" />
+      <module name="prefixSum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findMaxLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findMaxLength" />
+      <module name="prefixSum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="numIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="numIslands" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="decodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decodeString" />
+    <configuration name="orangeRotting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="orangeRotting" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestConsecutive_hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longestConsecutive_hash" />
-      <module name="hot100" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nextGreaterElement" />
-      <module name="StackAndQueue" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search" />
+    <configuration name="partitionLabels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="partitionLabels" />
       <module name="hot100" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.nextGreaterElement" />
-        <item itemvalue="Application.dailyTemperatures" />
-        <item itemvalue="Application.decodeString" />
-        <item itemvalue="Application.longestConsecutive_hash" />
-        <item itemvalue="Application.search" />
+        <item itemvalue="Application.findMaxLength" />
+        <item itemvalue="Application.NumArray" />
+        <item itemvalue="Application.orangeRotting" />
+        <item itemvalue="Application.numIslands" />
+        <item itemvalue="Application.partitionLabels" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +239,7 @@
       <workItem from="1771142543566" duration="19324000" />
       <workItem from="1771558896964" duration="113555000" />
       <workItem from="1773226039602" duration="1249000" />
-      <workItem from="1773640924841" duration="19588000" />
+      <workItem from="1773640924841" duration="52385000" />
     </task>
     <servers />
   </component>
@@ -307,6 +314,21 @@
           <url>file://$PROJECT_DIR$/hot100/src/searchRange.java</url>
           <line>4</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/orangeRotting.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/prefixSum/src/NumArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/prefixSum/src/findMaxLength.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
