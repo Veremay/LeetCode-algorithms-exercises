@@ -49,8 +49,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BubbleSort.executor": "Run",
     "Application.MyLinkedList.executor": "Run",
     "Application.NumArray.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.balance.executor": "Run",
+    "Application.balance2.executor": "Run",
     "Application.dailyTemperatures.executor": "Run",
     "Application.decodeString.executor": "Run",
     "Application.deleteDuplicate.executor": "Run",
@@ -70,6 +74,7 @@
     "Application.longestCommonSubsequence.executor": "Run",
     "Application.longestConsecutive_hash.executor": "Run",
     "Application.longestPalindrome.executor": "Run",
+    "Application.longestSubSequence.executor": "Run",
     "Application.maxArea.executor": "Run",
     "Application.maxDepth.executor": "Run",
     "Application.maxSlidingWindow.executor": "Debug",
@@ -86,6 +91,7 @@
     "Application.reverseList.executor": "Run",
     "Application.reverseString.executor": "Run",
     "Application.reverseWords.executor": "Run",
+    "Application.rotate.executor": "Debug",
     "Application.search.executor": "Run",
     "Application.searchBST.executor": "Debug",
     "Application.searchInsert.executor": "Run",
@@ -108,7 +114,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "E:/amaymay/lernen/Java/Leetcode/prefixSum/src/Main.java",
+    "onboarding.tips.debug.path": "E:/amaymay/lernen/Java/Leetcode/interview150/src/Main.java",
     "settings.editor.selected.configurable": "configurable.group.appearance",
     "vue.rearranger.settings.migration": "true"
   }
@@ -122,49 +128,49 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.findMaxLength">
-    <configuration name="NumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumArray" />
-      <module name="prefixSum" />
+  <component name="RunManager" selected="Application.balance2">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <module name="sort" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findMaxLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findMaxLength" />
-      <module name="prefixSum" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
+      <module name="sort" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="numIslands" />
-      <module name="hot100" />
+    <configuration name="balance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="balance" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="orangeRotting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="orangeRotting" />
-      <module name="hot100" />
+    <configuration name="balance2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="balance2" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="partitionLabels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="partitionLabels" />
-      <module name="hot100" />
+    <configuration name="longestSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longestSubSequence" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.findMaxLength" />
-        <item itemvalue="Application.NumArray" />
-        <item itemvalue="Application.orangeRotting" />
-        <item itemvalue="Application.numIslands" />
-        <item itemvalue="Application.partitionLabels" />
+        <item itemvalue="Application.balance2" />
+        <item itemvalue="Application.balance" />
+        <item itemvalue="Application.longestSubSequence" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +245,8 @@
       <workItem from="1771142543566" duration="19324000" />
       <workItem from="1771558896964" duration="113555000" />
       <workItem from="1773226039602" duration="1249000" />
-      <workItem from="1773640924841" duration="52385000" />
+      <workItem from="1773640924841" duration="66971000" />
+      <workItem from="1774091826862" duration="4641000" />
     </task>
     <servers />
   </component>
@@ -329,6 +336,11 @@
           <url>file://$PROJECT_DIR$/prefixSum/src/findMaxLength.java</url>
           <line>4</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hot100/src/rotate.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

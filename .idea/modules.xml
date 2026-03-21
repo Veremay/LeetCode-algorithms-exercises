@@ -18,8 +18,11 @@
       <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/hot100/hot100.iml" filepath="$PROJECT_DIR$/hot100/hot100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview150/interview150.iml" filepath="$PROJECT_DIR$/interview150/interview150.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/minSubArrayLen/minSubArrayLen.iml" filepath="$PROJECT_DIR$/Array/minSubArrayLen/minSubArrayLen.iml" />
       <module fileurl="file://$PROJECT_DIR$/prefixSum/prefixSum.iml" filepath="$PROJECT_DIR$/prefixSum/prefixSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
