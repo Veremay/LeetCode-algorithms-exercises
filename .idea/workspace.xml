@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c9a1b0-cb0c-4306-9344-108c6c1bc600" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview150/src/maxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview150/src/maxDepth.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,78 +47,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BubbleSort.executor": "Run",
-    "Application.MyLinkedList.executor": "Run",
-    "Application.NumArray.executor": "Run",
-    "Application.SelectionSort.executor": "Run",
-    "Application.balance.executor": "Run",
-    "Application.balance2.executor": "Run",
-    "Application.dailyTemperatures.executor": "Run",
-    "Application.decodeString.executor": "Run",
-    "Application.deleteDuplicate.executor": "Run",
-    "Application.evalRPN.executor": "Run",
-    "Application.findAnagrams.executor": "Run",
-    "Application.findMaxLength.executor": "Debug",
-    "Application.fourSum.executor": "Debug",
-    "Application.generate.executor": "Run",
-    "Application.getIntersectionNode.executor": "Run",
-    "Application.hasPathSum.executor": "Debug",
-    "Application.hasPathSum02.executor": "Debug",
-    "Application.hasPathSumII.executor": "Debug",
-    "Application.inorderTraversal.executor": "Run",
-    "Application.isValid.executor": "Run",
-    "Application.jump.executor": "Run",
-    "Application.lengthOfLongestSubstring.executor": "Debug",
-    "Application.longestCommonSubsequence.executor": "Run",
-    "Application.longestConsecutive_hash.executor": "Run",
-    "Application.longestPalindrome.executor": "Run",
-    "Application.longestSubSequence.executor": "Run",
-    "Application.maxArea.executor": "Run",
-    "Application.maxDepth.executor": "Run",
-    "Application.maxSlidingWindow.executor": "Debug",
-    "Application.nextGreaterElement.executor": "Run",
-    "Application.numIslands.executor": "Run",
-    "Application.orangeRotting.executor": "Run",
-    "Application.partition.executor": "Run",
-    "Application.partitionLabels.executor": "Run",
-    "Application.postorderTraversal.executor": "Debug",
-    "Application.preorderTraversal.executor": "Run",
-    "Application.removeDuplicates.executor": "Run",
-    "Application.removeElements.executor": "Run",
-    "Application.removeNthFromEnd.executor": "Run",
-    "Application.reverseList.executor": "Run",
-    "Application.reverseString.executor": "Run",
-    "Application.reverseWords.executor": "Run",
-    "Application.rotate.executor": "Debug",
-    "Application.search.executor": "Run",
-    "Application.searchBST.executor": "Debug",
-    "Application.searchInsert.executor": "Run",
-    "Application.searchRange.executor": "Run",
-    "Application.subarraySum.executor": "Debug",
-    "Application.threeSum.executor": "Run",
-    "Application.topKFrequent.executor": "Run",
-    "Application.wordBreak.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "17",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/amaymay/lernen/Java/Leetcode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "E:/amaymay/lernen/Java/Leetcode/interview150/src/Main.java",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.balance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.balance2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dailyTemperatures.executor&quot;: &quot;Run&quot;,
+    &quot;Application.decodeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.deleteDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.evalRPN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findMaxLength.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.fourSum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.generate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.getIntersectionNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hasPathSum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.hasPathSum02.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.hasPathSumII.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.inorderTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.isValid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.jump.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lengthOfLongestSubstring.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.longestCommonSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.longestConsecutive_hash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.longestPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.longestSubSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxDepth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxSlidingWindow.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.nextGreaterElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.numIslands.executor&quot;: &quot;Run&quot;,
+    &quot;Application.orangeRotting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.partition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.partitionLabels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.postorderTraversal.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.preorderTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeNthFromEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rotate.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchBST.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.searchInsert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.subarraySum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.threeSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.topKFrequent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.wordBreak.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/amaymay/lernen/Java/Leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/amaymay/lernen/Java/Leetcode/interview150/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\amaymay\lernen\Java\Leetcode\LinkedList" />
@@ -128,14 +128,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.balance2">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
-      <module name="sort" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.maxDepth">
     <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SelectionSort" />
       <module name="sort" />
@@ -164,13 +157,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="maxDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maxDepth" />
+      <module name="interview150" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.maxDepth" />
         <item itemvalue="Application.balance2" />
         <item itemvalue="Application.balance" />
         <item itemvalue="Application.longestSubSequence" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +246,8 @@
       <workItem from="1771558896964" duration="113555000" />
       <workItem from="1773226039602" duration="1249000" />
       <workItem from="1773640924841" duration="66971000" />
-      <workItem from="1774091826862" duration="4641000" />
+      <workItem from="1774091826862" duration="5278000" />
+      <workItem from="1774243803755" duration="24988000" />
     </task>
     <servers />
   </component>
